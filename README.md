@@ -45,16 +45,11 @@ It predicts possible portfolio outcomes, calculates key risk metrics, and visual
 
 ## Results
 ### Single Asset Portfolio
-![Single Asset Histogram](images/histogram_single.png)
+![Single Asset Histogram](results/histogram_single.png)
 
 ### Multi-Asset Portfolio
-![Multi Asset Histogram](images/histogram_multi.png)
+![Multi Asset Histogram](results/histogram_multi.png)
 
-## Resume Bullets
-- Developed a Monte Carlo simulation to model investment risk and portfolio returns.  
-- Ran 10,000+ simulations using NumPy to capture volatility and uncertainty.  
-- Visualized investment outcome distributions and calculated Value at Risk (VaR).  
-- Compared single-asset vs multi-asset portfolio risk to demonstrate diversification benefits.
 
 ## GitHub Link
-[View Notebook](InvestmentRisk_MonteCarlo.ipynb)
+[View Notebook](InvestmentRiskSimulation_MonteCarlo.ipynb)
